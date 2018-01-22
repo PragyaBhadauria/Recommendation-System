@@ -1,0 +1,1661 @@
+comp_id,title
+1,Ambition Box
+28,Flipkart
+29,Snapdeal
+30,Goldman Sachs
+31,Housing
+32,Ola Cabs
+33,WebEngage
+35,Mckinsey
+36,Deutsche Bank
+37,ITC Limited
+38,Boston Consulting Group
+39,Futures First
+40,American Express
+41,Infosys
+42,Tata Consultancy Services
+43,Cognizant
+44,Wipro
+45,Deloitte
+46,KPMG
+47,Hindustan Unilever Limited (HUL)
+48,Credit Suisse
+49,Capital One
+50,World Quant
+54,Myntra
+55,Wells Fargo
+56,Vodafone
+57,Citicorp
+58,Nomura
+60,JP Morgan Chase
+63,Verity Knowledge Solutions
+64,Flow Traders
+66,Wipro Consumer Care & Lighting
+67,Price Waterhouse Coopers
+70,Larsen and Toubro
+71,Urban Ladder
+72,Sabre Corporation
+73,LatentView Analytics
+74,Schlumberger
+76,Microsoft
+77,Google
+79,Fractal Analytics
+82,Oracle
+83,Crisil
+84,Airbus
+88,HCL Technologies
+89,Samsung
+90,Honeywell
+91,Bosch
+92,HSBC
+93,Facebook
+94,TSMC [Taiwan Semiconductor Manufacturing Company]
+95,Capgemini
+99,Honda
+100,Target Corporation
+101,HT Media
+105,Synopsys
+106,Edelweiss
+107,Caterpillar Inc
+108,Oyo Rooms
+109,Axtria
+112,Optiver
+113,Linkedin
+114,Amazon
+116,Visa
+117,Altair Engineering
+118,ServiceNow
+120,Zydus Cadila
+124,Mu Sigma
+125,Texas Instruments
+128,Cadbury
+129,SRM INFOTECH
+130,Shell
+134,ICICI Bank
+136,IBM
+137,HDFC Bank
+139,General Motors
+141,Bain & Company
+142,Tata Motors
+144,UnitedHealth Group
+145,Indian Oil Corporation { IOCL }
+146,EXL Service
+148,247 Innovation Labs
+152,Bharat Heavy Electricals
+153,MRF Limited
+154,Cisco Systems
+156,Nvidia
+157,Indian Space Research Organization
+158,Orbees Medical
+159,PayPal
+160,Philips
+165,Qualcomm
+166,Renault-Nissan
+167,Reliance Industries Limited
+169,Intel
+170,Alcazar Capital
+176,Citrix Systems
+177,Walmart Labs
+179,Feedback Infra
+180,ZS Associates
+181,Infogain
+183,Atkins
+187,Valyoo Technologies
+188,Dar Al-Handasah
+189,Essex Lake Group
+192,Systra MVA Consulting
+193,Darashaw
+195,Global Analytics
+196,Broadcom
+199,Arup Group Limited
+200,Aspire Systems
+204,Xilinx
+207,Oceaneering International
+208,Rolls-Royce
+210,Finisar
+212,Analytics Quotient
+215,Dr. Reddys Laboratories
+217,Idea
+218,Shapoorji Pallonji Group
+219,Fluor Corporation
+223,Freescale Semiconductor
+225,Epic Systems
+226,BankBazaar
+227,Morgan Stanley
+228,Mahindra & Mahindra
+229,Quality Engineering and Software Technologies
+233,Hero MotoCorp
+234,Directi
+235,NTPC Limited
+238,Jindal Steel and Power
+239,Exxon Mobil
+241,Tejas Networks
+242,Fortune Global
+243,Virtusa
+244,Bajaj Auto
+245,Novartis AG
+246,Strand Life Sciences
+247,Fair Issac Corporation
+248,Ericsson
+249,ANZ
+250,Stryker Corporation
+252,Ashok Leyland
+261,Oil & Natural Gas Corporation
+265,Jones Lang LaSalle
+267,KLA-Tencor
+269,Turbo Energy Limited
+270,Alstom India
+271,eGain Corporation
+272,Cosmic Circuits
+273,Accenture
+274,Opera Solutions
+278,Hyundai Motor Company
+280,Hindustan Aeronautics Limited [ HAL ]
+281,iRunway
+283,Indian Navy
+284,MITSUBISHI MOTORS
+285,Tower Research Capital
+286,Adobe Systems
+289,Symantec Corporation
+291,SPRINKLR SOLUTIONS
+295,TATA Steel
+296,Tata Power
+298,Genpact
+300,Amadeus Software Labs India
+302,Polaris Consulting & Services Limited
+303,IBM GBS
+304,John Deere
+305,IVY Comptech
+306,FMC Technologies
+307,Foster Wheeler Ltd.
+308,LG Electronics India
+310,Agilent Technologies
+311,Grey B
+313,Mentor Graphics
+317,Srinivasa Constructions Ltd
+318,CA TECHNOLOGY
+319,DE Shaw
+324,Works Applications
+332,Tata Technologies
+336,NetApp
+341,CenturyLink
+342,"IFFCO - KSEZ, NELLORE"
+344,Protiviti
+345,UBS
+346,Asian Paints
+349,Johnson Matthey
+350,HP (Hewlett Packard)
+351,Tech Mahindra
+353,IMS Health
+354,ABB
+356,Thermax
+364,Oliver Wyman
+367,Lakshmikumaran & Sridharan Attorneys
+368,Amdocs
+370,Crompton Greaves
+372,GMR Infrastructure
+374,Godrej Industries Ltd
+377,MediaTek
+378,Biocon
+379,Michelin
+381,Subros Ltd
+382,Samsung R&D Institute
+387,Bank of America Corporation
+389,Thornton Tomasetti
+390,Cyient
+391,Maruti Suzuki India Limited
+392,SRF Limited
+395,Nielsen
+396,CBRE Group
+398,JK Tyres
+400,Girnar Software
+402,Sokrati
+403,Applied Materials
+405,Nestle
+408,A.T. Kearney (AT Kearney)
+417,SanDisk
+422,Persistent Systems
+423,Barclays Technology Centre
+426,P&G
+427,Royal Bank of Scotland
+430,British Gas
+432,Adani Power
+433,ZTE Telecom
+434,USHA International
+441,Syntel
+448,Sapient Corporation
+451,Petrofac
+456,ADP India
+462,Informatica
+464,Think & Learn
+466,JSW Steel
+468,ThoughtWorks
+469,IBM ISL
+471,Shopclues
+472,CommVault Systems
+473,Seagate
+475,CGI
+477,Neilsoft
+479,Dolcera
+483,Mindtree
+487,IRIS Business Services
+490,Grail Research
+492,Essar Steel
+493,Vedanta Group
+494,HÃƒÂ¤fele Group
+497,3DPLM Software Solutions Limited
+498,Fiat India Automobiles
+501,IGATE
+503,Torry Harris
+505,Triveni Turbines
+506,Johnson Controls
+508,Reliance Jio Infocomm
+510,ZOMATO
+511,SAP Labs
+512,Affine Analytics
+515,Dell
+516,XL Dynamics
+517,Emami
+518,Teradata
+519,Verizon Communications
+521,Capillary Technologies
+525,VMware
+526,Magneti Marelli
+527,Nagarro
+532,Diamond Management & Technology Consultants
+533,Naukri
+534,Aspiring Minds
+535,The Blackstone Group
+536,Prime Focus Technologies
+537,Kony
+538,Nucleus Software
+539,NTT DATA
+540,Trident Group
+544,Uurmi Systems
+545,Drishti Soft Solutions
+548,Aricent
+551,Delhivery
+552,Bhushan Steel
+553,Aditya Birla Chemicals
+556,Havells
+557,Tata Consulting Engineers
+558,VA Tech Wabag
+559,Ashiana Housing
+560,Fidelity Investments
+562,Axis Bank
+564,Samsung Engineering
+565,PayTM
+566,Indian Army
+568,BNP Paribas
+571,Hella India Automotive
+572,Jindal Stainless Limited
+575,Tata Elxsi
+577,Cargill India
+579,Mphasis
+580,Simplex Infrastructures
+583,Nagarjuna Construction Company
+586,RITES
+588,Infibeam
+595,Yatra
+602,BigBasket
+608,Swiggy
+612,Zimmber
+614,FoodPanda
+616,Box8
+617,Toppr
+622,CouponDunia
+623,MySmartPrice
+630,Goibibo
+632,Tracxn
+633,BookMyShow
+639,Grofers
+640,Hike
+643,Droom
+644,Stayzilla
+645,Tiger Analytics
+649,Diebold
+650,Xoriant
+655,ICICI Lombard
+662,Sundaram-Clayton
+663,Cypress Semiconductor
+665,TCS Innovation Labs
+666,3i Infotech
+669,Unisys Global Services India
+674,Cybage
+677,Shahi Exports
+680,Delhi Metro Rail Corporation
+681,99acres.com
+682,Vizag Steel Plant
+684,PepsiCo
+686,Exide Industries
+691,Hindalco
+692,Roots Analysis
+693,Honda R&D
+694,Siemens
+695,Power2sme
+696,Nutanix
+698,iNautix Technologies
+699,Xerox
+701,TEKsystems
+703,L&T Infotech
+704,Incture Technologies
+706,Voltas
+707,Groupon Nearbuy
+711,Videocon
+712,Verizon Data Services
+713,CRMnext
+715,Factset
+2221,GEP
+2226,EY
+2228,Nokia
+2230,Thomson Reuters
+2232,Aon Hewitt
+2234,CapitalVia
+2236,Huawei Technologies
+2237,WNS
+2238,HCL Infosystems
+2241,State Bank of India
+2242,EMC
+2243,Cybage Software
+2244,Bharti Airtel
+2245,KPIT Technologies
+2247,GlobalLogic
+2248,NIIT Technologies
+2249,eClerx
+2250,UST Global
+2251,Sutherland Global Services
+2252,ITC Infotech
+2255,Ness Technologies
+2256,Altisource
+2257,Synechron
+2258,Juniper Networks
+2260,JDA Software
+2263,Birlasoft
+2264,Fiserv
+2266,L&T Technology Services
+2267,Hexaware Technologies
+2268,Convergys
+2269,Tata Communications
+2274,Citibank
+2275,CSS Corporation
+2278,Atos
+2279,Akamai
+2286,ValueLabs
+2287,Kotak Mahindra
+2292,Samsung Noida Lab
+2296,Scope International
+2300,Info Edge
+2303,Zoho
+2306,FIS
+2308,MAQ Software
+2309,Mercedes-Benz Research and Development India
+2315,Standard Chartered Bank
+2316,[24]7
+2317,Cvent
+2321,Cipla
+2324,Cerner
+2326,Hinduja Global Solutions
+2327,The Times of India
+2329,Jaro Education
+2330,EFI
+2331,Barclays
+2333,InterGlobe Technologies
+2337,Geometric
+2338,Bank of Baroda
+2344,HDFC Standard Life Insurance
+2350,Indiabulls
+2353,SBI Life Insurance Company
+2354,Ciber
+2359,Lodha
+2363,HARMAN
+2366,Tally Solutions
+2373,Marico Limited
+2377,ExportersIndia
+2378,Fastenal
+2381,The Linde Group
+2399,SynapseIndia
+2403,Tata AIG General Insurance
+2408,GETIT Infoservices PVT LTD
+2444,Samvardhana Motherson
+2454,Novartis India
+2455,Godrej Consumer Products
+2483,InnovAccer
+2499,Wind World
+2511,Janalakshmi Financial Services
+2518,Mahindra Logistics
+2528,MetaDesign Solutions
+2537,Aarvee Associates
+2543,Jet Airways
+2545,Tesco
+2546,Birla Sun Life Insurance
+2550,National Instruments
+2551,Vedanta Resources
+2552,Bank of India
+2553,The Smart Cube
+2557,Sify
+2560,JustDial
+2563,Siemens PLM Software
+2567,Societe Generale Global Solution Centre
+2568,Pubmatic
+2573,Sitel
+2575,Shapoorji Pallonji & Co
+2576,Power Grid Corporation of India
+2578,Concentrix
+2579,The Jaypee Group
+2580,Taj Group of Hotels
+2595,Colan Infotech
+2596,Annik Technologies
+2601,Finolex Cables
+2604,Reliance Life Sciences
+2612,JMC Projects
+2625,Deepak Nitrite Limited
+2693,Luthra & Luthra Law Offices
+2772,Varma & Varma
+2781,Saraswat Bank
+2813,Hindustan Coca Cola Beverages P
+2818,Chiripal Group
+2849,Deccan Herald
+2870,Lucas Indian Service
+2897,Steel Strips Wheels
+2905,QwikCilver Solutions
+2923,RSPL Limited
+2939,Tata Metaliks
+2946,Orient Craft
+2961,Velocity Software Solutions
+2976,Roca Bathroom Products
+2991,Omkar Realtors and Developers Group
+3055,Tismo Technology Solutions
+3149,Business Development Bureau
+3154,DRC Systems
+3291,Viraj Profiles
+3329,SEO Corporation
+3338,Excellon Software
+3365,Britannia
+3377,Mindstix Software Labs
+3381,TATA Advanced Materials
+3398,Gland Pharma Limited
+3410,CatalystOne Solutions
+3436,Ishan Netsol
+3485,Qlicket
+3505,DataMetica
+3516,Burger King
+3530,Schneider
+3531,DBS Bank
+3536,Anheuser-Busch InBev
+3586,Pernod Ricard
+3601,Telenor
+3632,Infoblox
+3665,TMF Group
+3686,Dubai Electricity & Water Authority (DEWA)
+3698,AIESEC International
+3702,Steelwedge Software
+3704,Tata Chemicals
+3707,infrasoft technologies
+3708,MAGMA Fincorp
+3710,United Spirits
+3720,Opus Software Solutions
+3723,Glenmark
+3740,Quatrro
+3742,Diksha Technologies
+3749,Apollo Tyres
+3753,Odessa Technologies
+3763,NGA HR
+3769,Lanco Infratech
+3784,Pfizer
+3811,Rockwell Automation
+3814,Mott MacDonald
+3823,Bajaj Finance
+3825,Hindustan Times
+3828,Abbott Healthcare
+3838,GlaxoSmithKline Pharmaceuticals
+3853,Pantaloon Retail
+3856,SG Analytics
+3874,Accretive Health
+3887,Berger Paints
+3891,Tata Sky
+3904,VNL
+3909,Bureau Veritas
+3910,Arista Networks
+3921,Muthoot Finance
+3924,Wildnet Technologies
+3926,Suzlon
+3927,Team Computers
+3946,Abbott
+3962,QualityKiosk
+3963,Freshdesk
+3969,Blue Dart Express
+3979,Soma Enterprise
+3982,Michelin India TamilNadu Tyres
+4000,TAFE
+4001,Reserve Bank of India
+4014,ICFAI University
+4034,Sybase
+4035,ECI Telecom
+4037,UnitedLex
+4053,DQ Entertainment
+4056,Cavinkare
+4068,Mobius Knowledge Services
+4089,Novo Nordisk
+4095,Lupin Pharmaceuticals
+4106,NTT DATA FA Insurance Systems
+4113,Innodata India
+4127,Ebizon Net Info
+4129,DMRC
+4150,InfoCepts
+4156,CoreEL Technologies
+4192,Invesco
+4198,Construction Industry Service Corporation
+4224,Uflex
+4243,Parle Agro
+4249,Mettl
+4276,Sodexo
+4281,Allianz
+4352,Whirlpool
+4360,Hyundai Mobis
+4366,Tata Projects Limited
+4393,Gati Kintetsu Express
+4394,Akzo Nobel India
+4412,Karvy Stock Broking
+4422,BDO
+4444,Pervacio
+4453,Arvind Mills
+4473,IL&FS technologies
+4475,Rakshak Foundation
+4479,ChannelPlay
+4500,Forbes Marshall
+4502,Bechtel
+4504,Synchronoss
+4514,Welspun Group
+4515,Godrej Infotech
+4522,Medtronic
+4551,Torrent Power
+4567,Tyco
+4568,Mondelez International
+4572,Saint-Gobain
+4598,ACG Worldwide
+4612,Efftronics Systems
+4643,Cholamandalam Investment & Finance
+4646,SpanIdea
+4656,Ameriprise
+4679,Xpanxion
+4697,HDFC Asset Management Company
+4701,Optimus Information
+4713,Alok Industries
+4722,Aeronautical Development Agency
+4724,Dabur India Limited
+4730,Tata BlueScope Steel
+4736,HMEL
+4738,Kaar Technologies
+4752,Aurobindo Pharma
+4834,Matrix ComSec
+4836,JBM Group
+4841,Arnold Consulting Private Limited
+4869,Shipping Corporation of India
+4870,The Indian Express
+4874,Hindustan Construction
+4878,Virtual Employee
+4881,SEED Infotech
+4918,VVDN Technologies
+4927,Nilkamal
+4940,Ample Technologies
+4964,SBI Cards & Payment Services
+4972,Orange
+4973,iQor
+4983,Sandvik
+5008,Adani Enterprises
+5014,Escorts Agri Machinery
+5028,Reliance Media Works
+5033,Tata Hitachi Construction Machinery
+5038,Gabriel India
+5039,Greenply Industries
+5045,Sesa Goa Limited
+5047,ThinkSys
+5052,Birla Sun Life Asset Management Company
+5062,Safexpress Pvt
+5071,Development Consultants
+5075,TVS Logistics Services
+5082,IFB Industries
+5093,Nexsus Techno Solutions
+5122,DHL Express
+5129,Valeo
+5158,Alfa Laval
+5175,TVS Motor
+5185,Avalon Global Research
+5204,AGS Health
+5220,NRI Financial Technologies
+5227,New Holland Fiat (India)
+5242,Megha Engineering and Infrastructure
+5265,AGS Transact Technologies
+5292,DigiCaptions India
+5301,FCA Fiat Chrysler Automobiles
+5303,Toyota
+5374,AECOM
+5376,Edelman
+5383,LifeCell International
+5392,Levi Strauss
+5402,DreamWorks Animation
+5412,Alkem Laboratories
+5421,ARRIS
+5437,FireEye
+5556,Continuum Managed Services
+5619,Kepler Cannon
+5621,HCC Group
+5631,Tega Industries
+5648,TVS Electronics
+5661,Amara Raja
+5662,Birla Tyres
+5699,Pidilite
+5751,Pantaloons
+5761,Coffee Day Beverages
+5778,ANSYS
+5785,Uber
+5798,JK Cement
+5838,Net Business Solutions
+5849,URC Construction Private Limited
+5861,Zara
+5862,Parker Hannifin
+5877,Alstom Transportation
+5878,Tupperware
+5903,Infotech
+5928,Jubilant Life Sciences
+5954,The Hindu
+5958,Star Health & Allied Insurance
+5973,Lambda Therapeutic Research
+5977,Micro Labs
+5993,Kirloskar Oil Engines
+5999,Tata Steel Processing & Distribution
+6023,GGK Technologies
+6034,Ahluwalia Contracts India Ltd
+6046,Adani Wilmar
+6071,Winjit Technologies
+6092,Reliance Retail Limited
+6100,Spandana Sphoorty
+6136,Daimler
+6140,Airtel ATN
+6141,Suzuki Motor
+6148,Jindal Saw
+6160,Sterling & Wilson
+6193,HDB Financial Services
+6203,Motherson Sumi Systems
+6207,Integra Software Services
+6214,Rane
+6261,Intex Technologies
+6270,KENT RO Systems
+6283,PVR Limited
+6288,ITD Cementation India
+6316,Sundaram Infotech Solutions
+6322,Jagran Prakashan
+6328,Cholamandalam
+6392,C&S Electric
+6409,Trawex Technologies
+6436,Volvo Construction Equipment
+6448,Dover Corporation
+6450,CMA CGM
+6487,TCS Technologies
+6489,Dainik Bhaskar
+6525,Kalpataru Group
+6535,BRIDGEi2i
+6536,Tata Cummins
+6539,Coalition Development
+6541,Parekh Integrated Services
+6564,Dainik Jagran
+6573,Essar Projects
+6596,Doyen Infosolutions
+6597,Webdunia
+7501,Endurance International Group
+7799,Reliance Communications
+7817,L&W Construction
+7849,DLF Brands
+7965,Bird Worldwide Flight Services
+8001,C.R.I. Pumps
+8026,DCM Engineering
+8038,URC Infotec
+8071,Amrit Group
+8091,Sanghi Industries
+8095,Radico Khaitan
+8102,o9 Solutions
+8150,Newgen Knowledge Works
+8162,BrahMos Aerospace
+8226,Delhi Public School
+8248,IIM Lucknow
+8348,Ashoka Buildcon Limited
+8350,Caretel Infotech
+8361,Syrma Technology
+8427,Craft Silicon
+8515,Ambuja Cement Foundation
+8516,BNT SOFT
+8689,Health Care Global Enterprises
+8740,Cement Manufacturing Company
+8746,Dishnet Wireless Limited
+8815,Cargill Foods India
+8819,Travelyaari
+8895,H&M
+8904,MasterCard
+8906,BOOZ & COMPANY (Strategy&)
+8917,Teva Pharmaceuticals
+8918,Technip
+8924,Sandoz
+8939,Parthenon - EY
+8974,FCm Travel Solutions
+9012,Sun Pharmaceutical
+9043,Bharat Oman Refineries Limited
+9060,Kurlon
+9078,Eicher Motors
+9118,JK Paper
+9148,Sysnet Global Technologies
+9151,ReGen Powertech
+9162,Varun Beverages
+9207,HyperCITY
+9238,Indus Towers
+9247,Mediamint
+9297,Johnson Lifts
+9319,Dover India
+9383,Adani Ports and Special Economic Zone Limited (APS
+9385,HashedIn Technologies
+9416,Gannon Dunkerley
+9426,SpiderLogic
+9470,SEL Group
+9540,Bombardier Transportation
+9563,ACC
+9566,Yazaki
+9583,BackOffice Associates
+9625,Faurecia
+9626,Chegg
+9628,Black Knight Financial Services
+9666,Boomerang Commerce
+9694,Cargotec
+9698,Bel
+9734,Smart IMS
+9742,Pathfinder
+9800,Serum Institute of India
+9834,Coffee Day
+9841,Kaya Skin Clinic
+9847,Aforeserve.com
+9872,Delhi Duty Free Services
+9903,Globus Stores
+9912,Avizva Solutions
+9918,Ameex
+9942,Franciscan Solutions
+9950,Cloudnine Hospital
+9954,NDOT Technologies
+9955,Heritage Foods India
+9978,Kalyaniwalla & Mistry
+9989,LeadSquared
+10015,Wordplay Content
+10026,Sona Koyo Steering Systems
+10042,GKB RX Lens
+10095,SoftAge Information Technology
+10114,IDMC
+10168,NSETECH
+10169,Religare Health Insurance Company Limited
+10186,Sandhar Technologies
+10190,HDIL
+10198,Invertis University
+10212,Polycab Wires
+10214,AGI glaspac
+10234,Electrosteel Steels
+10245,Solartis
+10250,Posist Technologies
+10285,Molex
+10318,Taylor & Francis Group
+10343,Saud Bahwan Group
+10407,SA Technologies Inc
+10408,NCC
+10515,Alepo Usa
+10520,Sunbeam Auto
+10566,IIC Technologies
+10592,Manav Rachna Educational Institutions
+10596,United Phosphorus
+10598,National Fertilizers
+10602,Phillips Carbon Black
+11358,MaxLinear
+11859,Lupin
+11903,Verizon
+11946,Robert Bosch
+11964,IDEA Cellular
+11986,Tata Teleservices
+11987,Manhattan Associates
+11991,Happiest Minds Technologies
+12002,Newgen Software
+12003,ICICI Prudential Life Insurance
+12006,Firstsource Solutions
+12019,SLK Software Services
+12020,Yodlee
+12032,Microland
+12034,Future Group
+12035,IndiaMART
+12036,Godrej & Boyce Manufacturing
+12040,IIFL
+12046,Zycus
+12050,Quintiles
+12051,IDBI Bank
+12059,IndusInd Bank
+12061,MakeMyTrip
+12063,Bharat Electronics
+12066,Barclays Shared Services
+12071,Temenos
+12075,Orange Business Services
+12083,Yes Bank
+12109,Futures First info services pvt
+12112,Hitachi Consulting
+12125,Bajaj Allianz General Insurance Co
+12126,IIT Bombay
+12127,QA InfoTech
+12129,Indian Air Force
+12149,Punj Lloyd
+12155,Calsoft
+12164,CMS Infosystems
+12174,Eaton
+12175,OpenText
+12177,Shoppers Stop
+12178,Teach For India
+12181,Randstad
+12197,GS Lab
+12200,MSCI
+12203,GlobalData
+12205,Apollo Hospitals
+12206,Next Education India
+12207,Shriram Transport Finance
+12215,TCS eServe
+12219,RateGain
+12231,iEnergizer
+12234,Accel Frontline
+12248,CIGNEX Datamatics
+12251,UltraTech Cement
+12255,athenahealth
+12256,Fujitsu Consulting
+12257,British Telecommunications
+12258,FLSmidth
+12262,Central Bank of India
+12263,Blue Star
+12265,Sharekhan
+12304,HTC Global Services
+12307,Harbinger Group
+12330,Edifecs
+12331,Atlas Copco
+12333,Sun Pharma
+12336,ITC Hotels
+12337,HighRadius
+12340,Tata Business Support Services
+12342,Copal Amba
+12386,CtrlS Datacenter
+12390,Dunnhumby
+12391,ION Trading
+12397,Hindustan Zinc Limited
+12398,Wipro Spectramind
+12408,Aegis
+12415,Adobe
+12424,GE
+12439,Intuit
+12450,CitiusTech
+12451,NCR
+12455,Sony
+12471,Ogilvy & Mather
+12476,Dimension Data
+12477,Jacobs
+12489,BNY Mellon
+12499,MetLife
+12503,Decathlon
+12504,3M
+12508,TE Connectivity
+12529,Searce
+12534,Bennett Coleman and Co. Ltd. (Times Group)
+12536,Royal Dutch Shell
+12557,bebo Technologies
+12568,Omega Healthcare
+12580,Appirio
+12590,L&T Power
+12603,The Federal Bank
+12609,VE Commercial Vehicles
+12610,Bharat Forge
+12621,Volkswagen
+12627,Torrent Pharmaceuticals
+12631,Ambuja Cements
+12633,AFCONS Infrastructure
+12635,Confederation of Indian Industry
+12653,SunTec Business Solutions
+12699,Siemens Energy
+12705,Force Motors
+12713,Hetero
+12720,Avineon India
+12760,Maruti
+13712,Saama Technologies
+14238,Hyundai Engineering and Construction
+14267,Sievert Group
+14359,NEC
+14366,Omega
+14469,Kusum Health Care
+14561,Intellipaat
+14704,Shriram Housing Finance
+14750,Anunta Technology Management Services
+15013,KRBL
+15032,Krishna Maruti
+15075,Galfar Engineering & Contracting SAOG
+15193,PROLIM
+15197,Infoview Technologies Pvt Limited
+15218,UrbanClap
+15274,University of Maryland
+15314,WorleyParsons
+15324,Epicor Software
+15380,Telstra
+15385,CNN
+15446,BorgWarner
+15450,Foxconn
+15583,McCormick & Company
+15756,Lebara
+15758,qatar airways
+15807,UNHCR
+15867,Mothercare
+15957,alfanar
+16054,NCC Group
+16274,Saudi Oger
+16296,GE Digital
+16485,Musashi Auto Parts
+16698,Al Turki Enterprises
+16702,ExterNetworks
+16705,Inductotherm
+16875,Wipro Digital
+16904,Continental
+17270,Amtek Industries
+17368,LUX Industries
+18007,Suzlon Energy
+18035,Fortune
+18463,Nepa
+18654,Aqusag Technologies
+18830,Albertsons International
+18990,ATS Infrastructure
+19045,JPM Group
+19053,Catalyst
+19060,Tolexo
+19107,E-Ring
+19156,IDFC Mutual Fund
+19231,Panchshil Realty
+19238,Jal International
+19404,Manikaran Power
+19411,Yellow Objects Solutions
+19497,Infosenseglobal
+20200,Collegedunia
+20476,The Practice
+20558,Vero Moda
+20692,Schneider Electric
+20937,Origin Learning Solutions
+21444,NexGen Technologies
+21588,Hitachi Plant Technologies
+21764,Baker Tilly
+21842,United Airlines
+21861,Vistara
+21882,Rakuten
+22112,Divya Bhaskar
+22248,MIOT Hospitals
+22356,Genus Power Infrastructure
+22624,Somany Ceramics
+22672,Max India
+22702,MSN Labs Hyderabad
+22836,Polestar Solutions & Services India
+22893,ProtoTech Solutions
+22934,Patanjali Ayurved
+23017,BlackNGreen
+23038,Embassy IT Solutions
+23108,FISME
+23190,Parag Milk Foods
+23206,Medline Industries
+23231,Mapro Foods
+23275,Marquardt
+23345,Bharat IT Services
+23535,Riya Travel And tours India Pvt
+23537,PI Industries
+23645,Kokuyo Camlin
+23709,EC-Council
+23801,Central Mechanical Engineering Research Institute
+23953,Score Information
+24016,P&O Cruises
+24072,Softeon
+24389,NGK Spark Plugs
+24650,Alpla
+24660,DB Realty
+24714,Narayana Hrudayalaya Hospitals
+25300,eClinicalWorks
+25392,ACNielsen
+25431,CSSI
+25525,Allstate
+26219,Tokai Rubber Auto Parts India
+26678,Ecom Express
+26980,PNC Infratech
+27162,Brainsoft Software
+27373,Windcare India Private Limited
+27727,HEXAGON GLOBAL IT SERVICES
+28071,Q2AMedia
+28793,Geodata
+28949,Xceedance
+28952,Bhima Jewellers
+29019,Abyeti Technologies
+29784,Spices Board India
+29966,Ambigai Consultancy Services
+30537,Omniglobe International
+30618,Keonics
+30669,General Mechanical Works
+30898,Dilip Buildcon
+31974,IL&FS Transportation Networks
+32039,Dodla Dairy
+32206,Kratin Mobile Software Solution Pvt Ltd
+32344,Advanced Hair Studio
+32507,Durian Industries
+32523,Accusol Technologies
+33408,Parle Products
+34172,SALESFORCE
+34360,Dalmia Group
+34483,Sanmarg Projects
+34583,Essel Utilities
+34629,Rich Graviss Products
+34736,Voylla
+34766,Win Medicare
+34995,GI Infotech
+35258,Pha India
+36308,Tikona Infinet
+36335,Agent BOB
+36340,Prakash Steelage
+37221,Amit Metaliks
+37233,Saggezza
+37236,Sony Japan
+37253,MUSIGMA BUSINESS SOLUTIONS
+37255,Global Scholar
+37261,TechAspect
+37268,Lexity
+37273,Aveva
+37274,Bombardier Transportaton
+37286,Roland Berger
+37289,CameronTec
+37291,Mahindra Comviva
+37304,Kabbage
+152560,Wrig Nanosystems
+152562,Quantiphi
+152564,Market Data Forecast
+152572,Shree Cement
+152573,Scriplogix
+152580,Myabhyaas.com
+152583,FinMechanics
+152584,Noodle analytics
+152586,Quantitative Brokers
+152587,Hotstar
+152591,TCG DIGITAL
+152593,Enfrien Solutions
+152596,Gonoise.com
+152605,Blackrock
+152612,L&T Hydrocarbon Engineering
+152613,Techahead
+152620,Treebo Hotels
+152624,HSBC Software Development
+152631,Orbees Business Solutions
+152634,Veritas Technologies
+152635,Copart
+152645,Honda Motorcycle & Scooter India Pvt
+152646,Apparel Group
+152668,Bandhan Bank
+152677,Lava International
+152693,Drive India Enterprise Solutions Limited (DIESL)
+152699,Grabonrent Internet
+152808,Tesco Bengaluru
+152822,Zensar Technologies
+152843,BYJU'S
+152935,Mahindra
+152984,Datamatics Global Services
+152993,Emerson
+153011,McKinsey & Company
+153027,ICICI Securities
+153038,Edelweiss Financial Services
+153099,JLL
+153140,Flextronics
+153154,Maveric Systems
+153163,Aircel
+153165,Cummins
+153171,Intellect Design Arena
+153238,Intelenet
+153266,Diebold Nixdorf
+153271,Teleperformance
+153292,HCCBPL
+153322,Aditya Birla Group
+153350,PolicyBazaar
+153383,Eaton Technologies
+153401,GMR Group
+153423,Vedanta Aluminium Limited
+153427,Bitwise
+153429,Rivigo
+153449,Mckinsey Knowledge Center
+153476,EPAM
+153546,LiquidHub
+153566,Muthoot Fincorp
+153588,NXP Semiconductors
+153795,Nalashaa Solutions
+153899,Croma
+153950,Britannia Industries Limited
+153957,IDBI Federal Life Insurance
+154053,KARYA Technologies
+154183,Hitachi
+154244,TresVista
+154252,Panasonic
+154468,Royal Enfield
+154562,NICE
+154641,Voonik
+154686,LendingKart
+154744,ATCS
+154863,Saint Gobain Glass
+154947,KONE
+154960,mroads
+154964,Sears IT & Management Services India
+154992,SGS
+155143,Market Simplified
+155359,KSK Energy
+155419,Ramky Infrastructure
+155496,IIMA
+155567,mSupply
+155636,Astegic
+155643,Naaptol
+155828,Hexagon Capability Center
+155832,Tredence
+156031,DXC Technology
+156403,Ferrero
+156442,Everest Group
+156461,KPIT
+156509,Zenoti
+156549,Techracers
+156679,Invenio Business Solutions
+156845,Codilar Technologies
+157078,Nestaway Technologies
+157113,Optum
+157129,SquadRun
+157179,Innoppl
+157354,Fluper
+158001,HDFC Sales
+158534,CARS24.com
+158928,FabHotels
+158962,Serco BPO
+159156,Securifi Embedded Systems
+159187,NextGenVision Technology
+159244,UNDP
+159410,SayOne Technologies
+159463,Lumax Industries
+159484,Indian Political Action Committee
+159639,Aditya Birla Finance
+159647,Codeistic
+160345,Knowledge Podium Systems
+160529,Heckyl Technologies
+160677,Course Hero
+161719,Innoraft
+161810,Bestseller
+161869,R1 RCM
+162079,Tvisha Technologies
+162397,Unistal Systems
+162786,Zenica Cars
+163058,TIAA
+163664,Gold24.in
+164131,TransOrg Analytics
+164336,Sandesh
+164716,Magical Imagination Portugal
+165035,D2K Technologies India
+165269,Markem Imaje
+165602,Teletext
+166476,Precision Camshafts
+166927,SIP SOFT LOGIC
+167604,Laugh Out Loud Ventures
+168234,360 Realtors
+168354,Techouts
+168932,TechnipFMC
+169069,NSH Corp
+169744,LSG
+170035,Medlife
+170122,Delmon Solutions
+170167,Vivo Smartphone
+170622,Medgenome Labs
+170820,aabasoft solutions
+170861,Vidya Vardhaka College
+171864,Gopal Group of Industries
+172348,Hughes Net Global Education
+173243,Pinnacle Capital Solutions
+173354,PC Jeweller
+173359,CHC Healthcare
+173800,Cosmosoft Technologies
+175102,Reliance Trends
+175131,Rigved
+175571,Expert Global Solutions
+176058,Wabtec
+177414,National Contracting Company
+177625,Zamil Air Conditioners
+178663,ABV Rock Group
+180424,Mainetti
+180452,Cadfem Engineering Services
+180691,YOU Broadband & Cable
+183442,Rohan Motors
+183922,Heidelbergcement India
+186727,Vijay Raja Homes
+187368,Indian market view
+188149,Vara United
+189204,Balasore Alloys Limited
+189685,Gemini Edibles & Fats India
+189727,Lumax Automotive Systems
+189769,TTK Healthcare
+190463,Continental Engines
+194438,Kansas Overseas Careers
+196528,Macawber Beekay
+198435,Stonehill International School
+198577,NCS SoftSolutions
+198616,Zircon Technologies India Limited
+199210,BridgeLabz Solutions
+200310,Carpathy
+200649,Efficiency Leaders
+200670,Arvind Group
+200678,Bajaj
+200728,Sears Holdings
+200738,Paper boat
+200792,L&T Construction
+200807,Virtuoso Recruitment Solutions
+200860,Dell EMC
+200861,Bajaj Finserv
+200875,HDFC Life Insurance
+200911,Intelenet Global Services
+200919,IndiGo Airline
+200931,Lenskart
+200940,Future Retail
+200943,Titan Company
+200954,Bharat Financial Inclusion
+200976,New Marhaba Travels
+201010,WNS Global Services
+201055,British Telecom
+201060,LiveHealth
+201070,IDFC Bank
+201080,Zoho Corporation
+201089,Deloitte Touche Tohmatsu India LLP
+201265,Manappuram Finance
+201266,Genpact India pvt limited
+201267,Mercedes Benz India
+201366,Osource India Pvt
+201404,GKC Projects
+201551,KEC International Ltd
+201567,Anu Industries
+201731,Wipro BPO
+201918,Home Credit
+201978,Fujiyama Power System
+202047,Bhushan Power & Steel
+202121,Voices for Change
+202194,Al-Shafi Hospital
+202268,Meil
+202409,Zirca Digital Solution
+202428,Alembic Pharmaceuticals
+202482,Reliance Jio
+202575,Danfoss Industries
+202672,bedrocktyres
+202786,Bizlog
+202811,Aabasoft Technologies
+202838,KIC Metaliks
+202978,Bakersville
+203013,Vishay
+203039,Godrej
+203080,Power Mech Projects
+203111,UNO Minda
+203351,STUP Consultants Pvt
+203401,Rising Stars Mobile India Private Limited
+203420,India YAMAHA Motor Pvt
+203558,Ernst Young
+203559,Jubilant FoodWorks
+203569,Saudi Binladin Group
+203651,MNC AUTOMATION
+203707,Electrosteel Castings Ltd.
+203877,HSBC Bank
+204016,Amara Raja Batteries
+204783,Federal Mogul Powertrain
+205863,Infostretch Solutions
+206501,Deepak Fertilisers and Petrochemicals Corporation
+207450,Wipro Infotech
+207894,Flexsin Technologies
+209282,Mytrah Energy
+209458,Samsung Electronics
+209519,Lindinger Inspection Services
+210477,Hgs Hinduja Global Solutions
+211892,Faurecia Automotive Seating
+212553,6Th Energy Technologies
+212586,Nephroplus
+213552,ABB Industries
+213568,Alstom Transport
+213661,Suzlon Infrastructure Services Ltd.
+214078,Shrachi Group
+214472,Mahindra Aerospace
+214589,Mahindra Rural Housing Finance
+215674,Deloitte Consulting
+216705,GSK Pharmaceuticals
+217230,Amb Group
+217666,Amazon Web Services
+218161,Lapiz Digital Services
+218930,Dabur
+219331,Lumax Auto Technologies Ltd
+219805,Dishnet Wireless Ltd. Aircel
+220514,NSE.IT
+220758,Sify Technologies
+220807,Reckitt Benckiser
+221082,TATA MOTORS DEALERSHIP
+221237,GE Industrial
+221347,Dabur Foods Ltd.
+221895,Indian Express
+222084,Signor Polymers
+222327,Kuliza Technologies
+222368,Lionbridge Technologies
+222523,Deloitte US India
+222888,TresVista Financial Services
+223914,Punj Lloyd Group
+224008,Macleods Pharmaceuticals
+226207,Eternis Fine Chemicals
+226380,Robert Bosch Engineering and Business Solutions
+226618,Version Systems Pvt. Ltd.
+226767,Ahluwalia Contracts
+226814,Sl Lumax
+226992,Airon Telecom Services
+227258,Alepo Technologies
+227654,Delphi Automotive
+227870,Genesys Telecommunications Laboratories
+229758,Searce Logistics Analytics LLP
+230193,Shahi Export House
+230417,Hotcrete Infrastructure
+230426,Rubamin Ltd.
+230606,Tcg Digital Solutions
+231964,Lulu International Exchange
+231989,Nvidia Graphics
+233565,Continental Automotive Components
+233819,P-Mech Consultant Pvt. Ltd.
+234027,Uflex Group
+234296,Qx Kpo Services
+234676,KPMG Advisory Services
+234904,PC Jewellers
+235591,KPMG Global Services
+236311,Gensofts Info Solutions
+237192,J R Laddha Financial Services
+237244,Nrc Industries
+237857,AMD Industries Ltd.
+238236,Axpress Logistics
+238550,Ab Inbev
+238849,Nidhi Auto Pvt. Ltd.
+240656,Chola Insurance
+240841,Megafine pharma
+241376,Tech Mahindra BSG
+241620,Bhabha Atomic Research Centre
+241684,Aricent Technologies
+242238,Merce Technologies
+242753,McCoy Architectural Systems Pvt. Ltd.
+243171,Sandvik Asia
+243380,Sun Pharmaceutical Industries
+243461,Atc Tower Ofindia
+244374,Hetero Labs
+245570,Deloitte Haskin & Sells
+245799,Metric Stream Infotech
+245874,Fratelli Wines
+247179,Interocean Group
+247883,Nokia Solutions and Networks
+248899,Oberoi Group of Hotels & Resorts
+249206,Berggruen Car Rentals
+250004,Ceat Tyres
+252619,Jai Industries
+253874,SKF Technologies
+254032,Tafe Tractors Farm Equipment
+254375,Mercer Consulting
+255176,B Braun
+256385,Shyam Sel & Power Ltd.
+256534,AllGo Embedded Systems
+256889,Sansui Electronics
+257718,The Bank of New York Mellon
+257867,Satyam
+258400,PGCIL
+258660,Cerner Healthcare Solutions
+259523,Voltas A Tata Enterprise
+260988,Sankei Giken
+262972,Sis Security
+264652,Eaton Corporation
+265381,Bhavik Terryfab
+265598,QualityKiosk Technologies
+265805,AppShark Software
+265829,MetricStream
+267054,WS Atkins
+267694,Voltech Engineers
+269915,Kamani Oil Industries
+279570,Mylan Laboratories Ltd
+279606,Bestseller Retail India Pvt. Ltd
+279620,Asahi India Glass Ltd
+279764,Celebi Delhi Cargo Terminal Management India Pvt. 
+279989,Shriram Pistons & Rings Ltd
+280056,Fujikura Automotive
+280133,Cholamandalam MS General Insurance
+280149,IBM India Pvt Ltd
+280154,Sarda Mines
+280183,Salezshark
+280387,Global Desi
+280586,Berger Paints India Ltd
+281022,zeus worldcast
+281208,uhg
+281600,hectranet training
+281601,m's hectranet
+281641,knct lab
+281741,m/s shyam sel & power ltd
+281874,healthcare at home
+281885,wayfair
+281999,ruloans distribution services
+282128,unayur marketing
+282131,onlygroup healthcare
+283142,Maahi Milk Producer Company
+283313,ACN health care
+283414,PEPSICO INDIA HOLDINGS PRIVATE LIMITED
+283426,IndiaMART InterMESH LTD
+283502,Srei equipment finance ltd
+283508,EID Parry (India) Ltd
+283544,SkillMetrix Knowledge Services LLP
+283616,Amul Dairy
+283765,Drubus Technologies Pvt. Ltd
+283829,Mando Automotive India Ltd
+283852,Phronesis partners
+283866,Videocon industries limited
+283915,Intech Pharma pvt ltd 
+283924,Selectsys India pvt ltd
+283956,Annik Technology services pvt ltd 
+283976,Suzuki motorcycle India Pvt ltd
+284070,Hindalco Industries Limited 
+284312,Knorr bremse india pvt ltd
+284396,Technoworkz Technologies
+284456,Rivigo Services Private Limited
+284486,ABB INDIA LIMITED
+284605,mom and me
+284638,Instakart services Pvt ltd
+284737,RISHAB APPAREL PVT LTD
+284984,LiquidHub India Pvt Ltd
+285042,PropTiger
+285060,Tupperware India Private Limited
+285107,Lodha group
+285124,Standard Chartered Global Business Services
+285129,Intex Technologies India Ltd
+285213,INDIA INFOLINE FIANANCE LIMITED
+285236,Cairn India Limited
+285253,Indiacast Media Distribution
+285286,info edge india Ltd 
+285305,BDL
+285334,xalta food and beverages
+285447,Al Bawani Co. Ltd.
+285474,Siemens Gamesa
+285527,Forays
+285581,JMC Projects India Ltd
+285854,Novo nordisk India pvt ltd
+285856,Indovision services pvt ltd
+286218,Ufoods India pvt ltd
+286465,FIS global 
+286466,Amazon Transportation Services Pvt Ltd
+286512,Sitel India Private Limited
+286659,Pharmarack technologies Pvt ltd
+286781,Tolexo online pvt Ltd 
+286787,Bharat Petroleum Corporation Ltd
+286989,Delta corporation
+287055,Accenture Services Private Limited
+287311,kanodia global pvt ltd
+287491,Suzuki motor Gujarat pvt Ltd 
+287535,shell india markets pvt ltd
+287745,MAILAM UPKING ENGINEERING
+287940,QuintilesIMS
+288118,ICICI Bank I process 
+288122,Google India pvt Ltd
+288143,wheels india ltd
+288178,ujjivan small finance bank
+288297,lava cast
+288298,exl services
+288345,Hexaware
+288586,pwc sdc
+288712,ernst and young
+288793,ambuja cement ltd techport
+288816,l and t finance
+288863,hospira pfizer
+288889,solartis technology pvt ltd
+288902,flsmidth  india pvt ltd
+289049,sify technology limited
+289270,lifestyle international pvt.ltd
+289380,teleperfomance india
+289832,"ernst and young llp, gurgaon"
+290364,"greenply industries ltd, optus laminates industry"
+290397,Ernst & Young Services Pvt. Ltd
+290525,Highradius Technologies
+290707,The webplant
+290780,molex india ltd
+290867,syntel international pvt ltd
+290891,bajaj electricals
+290924,dhl supply chain india pvt ltd
+290947,eclerx services ltd
+290992,general electric
+291046,varroc polymers pvt ltd
+291088,mahindra and mahindra financial services ltd
+291089,cargill india pvt. ltd
+291126,lea associates south asia pvt ltd
+291137,shineroad foods india pvt. ltd
+291177,accenture strategy
+291411,fluor daniel india pvt. ltd
+291428,dev software & services pvt. ltd
+291445,ykk india pvt. ltd
+291598,balrampur chini mills limited
+291617,mailam india ltd
+291841,concentrix daksh services india pvt ltd
+292045,csc india pvt. ltd
+292062,jtekt sona automotive india limited
+292154,yashashvi rasayan
+292172,eastman auto & power ltd
+292196,chandan steel ltd
+292263,laxcon steels ltd
+292387,gates unitta india company pvt. ltd
+292430,setco automotive ltd
+292686,multi mantech international pvt. ltd
+292816,truetzschler india pvt. ltd
+292939,luxottica india eyewear pvt. ltd
+293036,inductotherm india pvt. ltd
+293062,toyota tsusho india pvt. ltd
+293137,oracle india pvt. ltd
+293173,idemitsu lube india pvt.  ltd
+293213,sgs tekniks manufacturing pvt. ltd
+293370,honda motorcycle and scooter india pvt.lit narasap
+293521,aditya birla health insurance co ltd
+293710,"FREIGHT SYSTEMS INDIA PVT LTD.,"
+293784,infosys bpo ltd
+293916,Kotak Mahindra Bank Ltd..
+293980,arvind limited
+294038,cholamandalam ms gic ltd
+294114,oracle financial software services
+294185,capgemini technology services india pvt ltd
+294186,capegemini
+294193,bajaj electrical ltd
+294507,Capgemini India pvt Ltd
+294541,CUMMINS INDIA LTD.
+294552,intex technologies(i) ltd
+294632,knowledge podium system pvt. ltd
+294666,Lumax Mannoh Allied Technologies Ltd
+294726,extramarks education india pvt ltd
+294750,MBA Consulting India PVT Ltd
+294858,titan engineering and automation limited
+295328,Vihaan Networks Ltd.
+295647,macawber beekay pvt. ltd. greater noida group of b
+295754,Sterlite Power Transmission Limited
+295928,gold seal and saargummi india p ltd
+296014,nexus telecom pvt ltd. t
+296200,kansai nerolac paints ltd
+296302,BATA INDIA PRIVATE LIMITED
+296321,Titan Industries
+296340,ricoh india limited
+296522,Larsen & Toubro
+296525,Thirumeni finance pvt Ltd 
+296578,indiacast media distribution pvt. ltd
+296617,Dr Reddy's
+296684,TwinVaves Technologies Pvt Ltd
+296755,fujikura automotive india pvt.ltd chakan
+296806,hush puppies ( bata india ltd
+297059,flsmidth pvt. ltd
+297116,fujiyama power systems sister concern ups inverter
+297123,karvy data management
+297882,mynd solution pvt. ltd
+298454,FedEx Express
+298507,TUBACEX
+298630,Oracle Financial Services Software
+299086,DAR Engineering
+300141,Societe Generale
+300529,agrigenome labs private limited
+300622,hindware -hindustan sanitaryware industries ltd
+300992,Bigclozet
+301045,Wingify Software Pvt. Ltd. 
+301081,Colgate Palmolive
+301861,PRG BUILDCON
+301894,T Sun INDIA Led Pvt.Ltd
+302255,jtekt sona automotive india ltd
+302899,Intel Corporation
+302983,tgi friday mumbai
+303772,Rheomold Engineering Solutions
+303793,Systopic Labs Pvt Ltd
+304430,kanodia International (P) Ltd.
+304904,rheomold engg solution lpp.pune
+305742,Cars24 Services Pvt Ltd
+306800,Kamani Foods Pvt Ltd
+307090,Vidyagyan School
+307523,Sarovar Portico
+307616,RELIANCE SMSL
+307641,SAIL Rourkela
+308360,vidyagyan school snf
+308572,cg power and industrial solutions limited  formall
+308864,freshworks
+309047,Gold24 Jewellery
+309666,63 Moons Technologies
+309734,saurer textile solution india pvt
+310987,aster dm health care
+311423,Hakuna matata
+311502,Yodlee Infotech
+311556,C DOT
+313042,honeywell uop
+314596,Ameex Technologies
+314767,Dhl infrabulls international pvt ltd
+314876,"g b n school,  sector 21-d, faridabad,  haryana"
+315852,PRILOR TECHNOLOGIES
+316062,Sabre Travel Technologies
+316085,suzuki motors
+316465,mahindra integrated business solutions pvt ltd
+316938,Factspan Analytics
+316953,gtkonnect
+318815,Atria Group
+318984,Proptiger realty pvt ltd
+320062,we united llc qatar
+320087,VPS healthcare
+321268,associated soapstone distributing pvt. ltd (golcha
+321320,EWAC Alloys Ltd
+323237,The karur vysya bank ltd
+324059,Geodata Eng
+324727,Schlumberger India Technology Centre
+325311,Megafine Pharma(P) Ltd
+325529,ford india motar company
+327579,cognizant technologies solutions
+328755,Sriveda Sattva
+329325,Jaquar and Company Pvt Ltd
+330281,credit suisse india services pvt ltd
+330820,john charcol
+330924,Nokia Networks
+333227,Hdfc
+334717,Mercedes-Benz
+335760,pladis global -united biscuits pvt ltd (mcvities)
+336060,hunar foundation
+336350,icarda
+337012,Innovassynth Technologies (I) Ltd
+338892,Alphaserve Technologies
+339954,Sbi Back Office
+340929,gea process engineering ii
+344090,Wells Fargo India Solutions
